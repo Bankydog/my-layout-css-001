@@ -1,3 +1,3 @@
 # my-layout-css-001
 my first web
-<img src="https://drive.google.com/file/d/1hphVKUcPEt8vsCdIOP1r4oCGqeilNAuK/view?usp=drive_link">
+<img src="https://cdn.pic.in.th/file/picinth/Capture4a3d5097cf498378.jpeg" alt="Capture4a3d5097cf498378.jpeg" border="0" />
